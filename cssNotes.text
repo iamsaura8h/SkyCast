@@ -1,0 +1,19 @@
+Margin & padding :
+One value (e.g., margin: 10px;): Applies the same margin to all four sides.
+Two values (e.g., margin: 10px 20px;): The first value is for the top and bottom margins, and the second value is for the left and right margins.
+Three values (e.g., margin: 10px 20px 30px;): The first value is for the top margin, the second value is for the left and right margins, and the third value is for the bottom margin.
+Four values (e.g., margin: 10px 20px 30px 40px;): Specifies the margins in the order of top, right, bottom, and left.
+ ----
+padding: 35px 40px;
+
+Adds padding inside the element: 35 pixels on the top and bottom, and 40 pixels on the left
+----
+
+color: #fff;
+
+Sets the text color to white (#fff). 
+----
+When 
+border: 0; and outline: 0; 
+are used together, they remove both the border and the focus outline from an element. 
+This is often done to create a custom-styled input or button without any default browser styles.
